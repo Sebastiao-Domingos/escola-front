@@ -17,7 +17,6 @@ export default function Login() {
                 <Email
                   sx={{ color: 'action.active', mr: 1, my: 0.5 }}
                   className="text-purple-700"
-                  s
                 />
                 <TextField
                   id="input-with-sx"
